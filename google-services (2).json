@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "506707715302",
+    "firebase_url": "https://tonton-210a9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tonton-210a9",
+    "storage_bucket": "tonton-210a9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506707715302:android:33ae96680a970732f74727",
+        "android_client_info": {
+          "package_name": "TON.TON.TON2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQu_kwabPRxgPgvujr1jmAzeoSTyoipI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
